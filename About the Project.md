@@ -5,16 +5,25 @@ This project aims to develop a web application using Streamlit for real-time acc
 Key Features:
 
   User-friendly Streamlit interface for easy interaction
+  
   Integration with Twilio API for credential input and potential notifications
+  
   Pre-trained machine learning model for accident detection
+  
   Ability to upload and analyze video files
   
 Technologies:
+  
   Streamlit
+  
   Twilio API
+  
   Machine Learning 
   
 Future Enhancements:
+  
   Explore additional features like live video streaming for real-time analysis
+  
   Implement a more robust machine learning model with larger training dataset
+  
   Integrate with other services for emergency response or notifications
